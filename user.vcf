@@ -4,11 +4,11 @@ PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Tung;Edmond;;;
 FN: Edmond  Tung 
 ORG:InfoFabrica Consulting Pte Ltd;
-TITLE:Channle Marketing Manager\nInfoFabrica Consulting Pte Ltd
+TITLE:Channle Marketing Manager\n
 EMAIL;type=INTERNET;type=WORK;type=pref:edmond.tung@infofabrica.com
 TEL;type=WORK;type=VOICE:+65 9325 9623
 item1.ADR;type=WORK;type=pref:;;1 Magazine Road\nCentral Mall\, 06-12;;;059567;Singapore
 item1.X-ABADR:sg
-item2.URL;type=pref:infofabrica.com
+item2.URL;type=pref:www.infofabrica.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
